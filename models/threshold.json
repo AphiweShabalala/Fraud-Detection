@@ -1,0 +1,6 @@
+{
+    "threshold": 0.8,
+    "selection_method": "OOF F1 maximization",
+    "cv_strategy": "5-fold StratifiedKFold",
+    "random_state": 42
+}

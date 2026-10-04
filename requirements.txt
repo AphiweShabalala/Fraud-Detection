@@ -1,0 +1,9 @@
+pandas==2.3.2
+numpy==2.3.2
+scikit-learn==1.7.1
+imbalanced-learn==0.14.2
+joblib==1.5.2
+fastapi==0.141.1
+uvicorn[standard]
+pydantic==2.13.5
+xgboost==3.0.4
